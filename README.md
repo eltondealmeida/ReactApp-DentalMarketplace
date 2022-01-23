@@ -1,4 +1,4 @@
-#React App - Dentist Marketplace, with 2 screens, one with the home page and another for contacts. 
+# React App - Dentist Marketplace, with 2 screens, one with the home page and another for contacts. 
 
 In the contacts page we used a Google Maps API.
 
